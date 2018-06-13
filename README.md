@@ -1,0 +1,1 @@
+This is Yana's first git project!
